@@ -11,6 +11,7 @@ import javax.swing.JPanel;
 
 public class BoardUI extends JPanel {
 
+	private static final long serialVersionUID = -2207926368338565869L;
 	private static final int SQUARE_SIZE = 60;
 	private static final int BORDER = 4;
 	public static int WIDTH = 800;
