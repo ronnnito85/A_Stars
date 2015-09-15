@@ -11,3 +11,5 @@ Legend for the boards:
 '.' -> free spot
 
 You can create your own boards and check what will happen. Note that the path will always start from the top left and finish at the bottom right cell.
+
+![HackConf A*](https://www.dropbox.com/s/0hsakbl967ukfqi/HackConf.png?dl=1)
